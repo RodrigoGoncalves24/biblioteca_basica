@@ -1,0 +1,11 @@
+CFLAGS = -Wall -g # Opcoes do compilador (todos os warnings + debug info)
+
+PROG = main # Programa a ser executado
+FONTES = main.c MathFunc.c
+OBJETOS = $(FONTES:.c=.o) # main.c e MathFunc.o
+
+$(PROG): $(OBJETOS) 
+	gcc $(CFLAGS) $(OBJETOS) -o $@
+
+clean: 
+	rm -f $(OBJETOS) $(PROG)
