@@ -5,8 +5,7 @@
   básicas.</p>
 
 ## Como usar
-  <p>Para ter uma melhor compilação dos arquivos, a sugestão é rodas eles pelo terminar com os seguintes códigos: "gcc -c main.c MathFunc.c" e "gcc -o main main.c MathFunc.c" logo após o 
-  programa irá executar no terminal solicitando as valores a ser digitdos pelo usuário e f fará os devidos cálculos.</p>
+  <p>Para ter uma melhor compilação dos arquivos, a sugestão é rodas eles pelo terminar com os seguintes códigos: "gcc -c main.c MathFunc.c" e "gcc -o main main.c MathFunc.c" logo após utilize "./main" e o programa irá executar no terminal solicitando as valores a ser digitdos pelo usuário e f fará os devidos cálculos.</p>
   
   Bom uso!!
 
