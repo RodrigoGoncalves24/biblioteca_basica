@@ -12,7 +12,7 @@
 
 ## Tecnologias
 <div>
-    <img src="https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=C&logoColor=white">
 
 </div>
 
